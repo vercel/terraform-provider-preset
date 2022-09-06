@@ -1,0 +1,8 @@
+*.tfstate
+*.tfstate.backup
+.DS_Store
+terraform-provider-preset
+.env.local
+.env
+.auto.tfvars
+.tfvars
